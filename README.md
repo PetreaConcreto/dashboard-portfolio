@@ -26,7 +26,7 @@ Atuo na transformação de dados brutos em análises acionáveis utilizando Powe
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| [Em breve] | Dashboard de Controle de Produção | Power BI, DAX |
+| [Feito] | Dashboard de Controle de Produção | Power BI, DAX |
 | [Em breve] | Análise de KPIs de Supply Chain | Power BI, SQL |
 | [Em breve] | Dashboard Financeiro | Power BI, Excel |
 
