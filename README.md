@@ -27,29 +27,28 @@ Atuo na transformação de dados brutos em análises acionáveis utilizando Powe
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
 | [Feito] | Dashboard de Controle de Produção | Power BI, DAX |
-| [Em breve] | Análise de KPIs de Supply Chain | Power BI, SQL |
-| [Em breve] | Dashboard Financeiro | Power BI, Excel |
+
 
 ### 🟡 SQL
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
 | [Em breve] | Análise Exploratória de Dados | SQL, BigQuery |
-| [Em breve] | Relatórios de Estoque e Logística | SQL, PostgreSQL |
+| [Em breve] | Relatórios de Estoque e Logística | SQL, BigQuery |
 
 ### 🟢 R
 
-| Projeto | Descrição | Ferramentas |
+| Projeto | Descrição |
 |--------|-----------|-------------|
-| [Em breve] | Visualizações Estatísticas | R, ggplot2 |
-| [Em breve] | Análise de Séries Temporais | R, tidyverse |
+| [Em breve] | Visualizações Estatísticas |
+| [Em breve] | Análise de Séries Temporais |
 
 ### 🟣 Python
 
-| Projeto | Descrição | Ferramentas |
+| Projeto | Descrição |
 |--------|-----------|-------------|
-| [Em breve] | Automação de Relatórios | Python, Pandas |
-| [Em breve] | Análise de Dados Operacionais | Python, Matplotlib |
+| [Em breve] | Automação de Relatórios |
+| [Em breve] | Análise de Dados Operacionais |
 
 ---
 
@@ -68,6 +67,7 @@ Atuo na transformação de dados brutos em análises acionáveis utilizando Powe
 
 - 📧 Email: guilhermej.jeronimo@gmail.com
 - 📌 Localização: Bauru, SP - Brasil
+- Telefone: (14) 99109-7985
 
 ---
 
