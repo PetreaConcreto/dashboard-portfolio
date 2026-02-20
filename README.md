@@ -36,19 +36,6 @@ Atuo na transformação de dados brutos em análises acionáveis utilizando Powe
 | [Em breve] | Análise Exploratória de Dados | SQL, BigQuery |
 | [Em breve] | Relatórios de Estoque e Logística | SQL, BigQuery |
 
-### 🟢 R
-
-| Projeto | Descrição |
-|--------|-----------|-------------|
-| [Em breve] | Visualizações Estatísticas |
-| [Em breve] | Análise de Séries Temporais |
-
-### 🟣 Python
-
-| Projeto | Descrição |
-|--------|-----------|-------------|
-| [Em breve] | Automação de Relatórios |
-| [Em breve] | Análise de Dados Operacionais |
 
 ---
 
