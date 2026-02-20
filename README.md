@@ -66,8 +66,7 @@ Atuo na transformação de dados brutos em análises acionáveis utilizando Powe
 
 ## 📞 Contato
 
-- 📧 Email: seuemail@email.com
-- 🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- 📧 Email: guilhermej.jeronimo@gmail.com
 - 📌 Localização: Bauru, SP - Brasil
 
 ---
