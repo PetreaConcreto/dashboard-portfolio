@@ -1,2 +1,75 @@
-# dashboard-portfolio
-Portfólio de Dashboards e Projetos de Análise de Dados | Power BI, SQL, R e Python
+# 📊 Dashboard Portfolio
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)]()
+[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+
+> Portfólio de projetos de Análise de Dados com foco em dashboards interativos, visualizações estratégicas e insights para tomada de decisão.
+
+---
+
+## 👤 Sobre mim
+
+Engenheiro de Produção e Analista de Dados com experiência em **PCP (Planejamento e Controle da Produção)**, **Supply Chain** e **Business Intelligence**.  
+Atuo na transformação de dados brutos em análises acionáveis utilizando Power BI, SQL, R e Python.
+
+**Localização:** Bauru, São Paulo, BR  
+**Áreas de atuacão:** Análise de Dados | PCP | Logística | Supply Chain | BI
+
+---
+
+## 📁 Projetos
+
+### 🔵 Power BI
+
+| Projeto | Descrição | Ferramentas |
+|--------|-----------|-------------|
+| [Em breve] | Dashboard de Controle de Produção | Power BI, DAX |
+| [Em breve] | Análise de KPIs de Supply Chain | Power BI, SQL |
+| [Em breve] | Dashboard Financeiro | Power BI, Excel |
+
+### 🟡 SQL
+
+| Projeto | Descrição | Ferramentas |
+|--------|-----------|-------------|
+| [Em breve] | Análise Exploratória de Dados | SQL, BigQuery |
+| [Em breve] | Relatórios de Estoque e Logística | SQL, PostgreSQL |
+
+### 🟢 R
+
+| Projeto | Descrição | Ferramentas |
+|--------|-----------|-------------|
+| [Em breve] | Visualizações Estatísticas | R, ggplot2 |
+| [Em breve] | Análise de Séries Temporais | R, tidyverse |
+
+### 🟣 Python
+
+| Projeto | Descrição | Ferramentas |
+|--------|-----------|-------------|
+| [Em breve] | Automação de Relatórios | Python, Pandas |
+| [Em breve] | Análise de Dados Operacionais | Python, Matplotlib |
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📞 Contato
+
+- 📧 Email: seuemail@email.com
+- 🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- 📌 Localização: Bauru, SP - Brasil
+
+---
+
+> *"Dados sem contexto são apenas números. Dados com análise são decisões."*
