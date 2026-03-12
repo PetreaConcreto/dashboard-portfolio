@@ -34,8 +34,13 @@ Atuo na transformação de dados brutos em análises acionáveis utilizando Powe
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| [Em breve] | Análise Exploratória de Dados | SQL, BigQuery |
-| [Em breve] | Relatórios de Estoque e Logística | SQL, BigQuery |
+| [feito] | Análise de Dados | SQL, BigQuery |
+
+
+### PYTHON
+| Projeto | Descrição | Ferramentas |
+|--------|-----------|-------------|
+| [feito] | Automação de formulários | Python, pyautogui |
 
 
 ---
