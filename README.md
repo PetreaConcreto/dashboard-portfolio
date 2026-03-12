@@ -40,7 +40,7 @@ Atuo na transformação de dados brutos em análises acionáveis utilizando Powe
 ### PYTHON
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| [feito] | Automação de formulários | Python, pyautogui |
+| [feito] | Automação de preenchimento de formulários | Python, pyautogui |
 
 
 ---
