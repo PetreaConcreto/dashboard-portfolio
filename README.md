@@ -12,7 +12,7 @@
 
 ## 👤 Sobre mim
 
-Engenheiro de Produção e Analista de Dados com experiência em **PCP (Planejamento e Controle da Produção)**, **Supply Chain** e **Business Intelligence**.  
+Engenheiro de Produção e Analista de Planejamento/Dados com experiência em **PCP (Planejamento e Controle da Produção)**, **Supply Chain** e **Business Intelligence**.  
 Atuo na transformação de dados brutos em análises acionáveis utilizando Power BI, SQL, R e Python.
 
 **Localização:** Bauru, São Paulo, BR  
