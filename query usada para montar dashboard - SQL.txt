@@ -1,0 +1,65 @@
+WITH base AS (
+    SELECT
+        agente,
+        venda,
+        tempo_min
+    FROM atendimentos
+),
+
+-- 1) agregação por agente
+agregado AS (
+    SELECT
+        agente,
+        SUM(venda) AS valor_total,
+        COUNT(*) AS atendimentos,
+        SUM(tempo_min) AS tempo_total,
+        SUM(CASE WHEN venda > 0 THEN 1 ELSE 0 END) AS vendas_realizadas
+    FROM base
+    GROUP BY agente
+),
+
+-- 2) métricas principais
+metricas AS (
+    SELECT
+        agente,
+        valor_total,
+        atendimentos,
+        tempo_total,
+        vendas_realizadas,
+
+        vendas_realizadas * 1.0 / atendimentos AS taxa_conversao,
+        valor_total * 1.0 / atendimentos AS ticket_medio,
+        valor_total * 1.0 / tempo_total AS valor_por_minuto
+    FROM agregado
+),
+
+-- 3) média da equipe
+media_equipe AS (
+    SELECT
+        AVG(valor_por_minuto) AS media_produtividade
+    FROM metricas
+)
+
+-- 4) relatório final
+SELECT
+    m.agente,
+    m.valor_total,
+    m.atendimentos,
+    m.tempo_total,
+    ROUND(m.taxa_conversao, 2) AS taxa_conversao,
+    ROUND(m.ticket_medio, 2) AS ticket_medio,
+    ROUND(m.valor_por_minuto, 2) AS valor_por_minuto,
+
+    -- ranking
+    RANK() OVER (ORDER BY m.valor_por_minuto DESC) AS ranking_produtividade,
+
+    -- benchmark
+    CASE
+        WHEN m.valor_por_minuto > e.media_produtividade * 1.1 THEN 'Excelente'
+        WHEN m.valor_por_minuto < e.media_produtividade * 0.9 THEN 'Crítico'
+        ELSE 'Médio'
+    END AS categoria_desempenho
+
+FROM metricas m
+CROSS JOIN media_equipe e
+ORDER BY valor_por_minuto DESC;
