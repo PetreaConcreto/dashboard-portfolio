@@ -41,6 +41,7 @@ Atuo na transformação de dados brutos em análises acionáveis utilizando Powe
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
 | [feito] | Automação de preenchimento de formulários | Python, pyautogui |
+| [feito] | Dashboard de Análise de dados via Aplicativo Web | Python, Streamlit, Pandas, REGEX |
 
 
 ---
