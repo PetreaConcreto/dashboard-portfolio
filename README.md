@@ -1,6 +1,6 @@
 # 📊 Portfolio em Dados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-jeronimo-analyst)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
@@ -14,31 +14,78 @@
 
 Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência em custos industriais, suprimentos e PCP. Transformo dados brutos em análises acionáveis utilizando Power BI, SQL, Python e Excel, unindo visão de negócio à análise quantitativa.
 
-📍 Bauru, SP — Brasil
+📍 São Paulo, SP — Brasil
 
 ---
 
 ## 📁 Projetos
 
+---
+
 ### 🟡 Power BI
 
-| Projeto | Descrição | Ferramentas |
-|---|---|---|
-| [Dashboard de Controle de Produção](./Dashboard_Operacional_-_Telemarketing.pbix) | Monitora indicadores de produção (eficiência, custo por unidade e variação mensal), identificando gargalos por linha e turno | Power BI, DAX |
-| [Dashboard Operacional](./Dashboard_Nossa_Rossi_-_Confeitaria.pbix) | Painel de acompanhamento de indicadores de desempenho e resultados do negócio | Power BI, DAX |
+#### Dashboard de Planejamento e Controle da Produção
+
+**Ferramentas:** Power BI, DAX
+
+**Descrição:** Dashboard para monitoramento de indicadores de produção, acompanhando eficiência, custo por unidade e variação mensal. Permite identificar gargalos por linha e turno, apoiando decisões de planejamento e controle.
+
+**Preview:**
+
+> 📷 _Imagem do dashboard será adicionada em breve_
+
+<!-- Substitua a linha abaixo quando tiver o print do dashboard -->
+<!-- ![Dashboard PCP](./preview_pcp.png) -->
+
+---
 
 ### 🔵 SQL
 
-| Projeto | Descrição | Ferramentas |
-|---|---|---|
-| [Análise de Dados com SQL](./query_usada_para_montar_dashboard_-_SQL.txt) | Queries para extração, transformação e análise de dados com aplicação em BigQuery | SQL, BigQuery |
+#### Análise de Dados com SQL
+
+**Ferramentas:** SQL, BigQuery
+
+**Descrição:** Queries para extração, transformação e análise de dados com aplicação em BigQuery. Inclui consultas para análise de custos, agrupamentos e indicadores de desempenho.
+
+**Preview:**
+
+> 📷 _Imagem do dashboard será adicionada em breve_
+
+<!-- ![Dashboard SQL](./preview_sql.png) -->
+
+**Código:** [Ver query SQL](./query%20usada%20para%20montar%20dashboard%20-%20SQL.txt)
+
+---
 
 ### 🐍 Python
 
-| Projeto | Descrição | Ferramentas |
-|---|---|---|
-| [Automação de Formulários](./Arquivos_do_appweb_em_Python.rar) | Automação de preenchimento de formulários web, eliminando tarefas manuais repetitivas | Python, PyAutoGUI |
-| [Dashboard Web de Análise de Dados](./codigo_principal_-_PYTHON.py) | Aplicativo web interativo para análise e visualização de dados com filtros dinâmicos | Python, Streamlit, Pandas, Regex |
+#### Automação de Formulários Web
+
+**Ferramentas:** Python, PyAutoGUI
+
+**Descrição:** Automação de preenchimento de formulários web, eliminando tarefas manuais repetitivas e reduzindo tempo de operação.
+
+**Preview:**
+
+> 📷 _Imagem da automação será adicionada em breve_
+
+<!-- ![Automação](./preview_automacao.png) -->
+
+**Código:** [Ver código Python](./codigo%20principal%20-%20PYTHON.py)
+
+---
+
+#### Dashboard Web de Análise de Dados
+
+**Ferramentas:** Python, Streamlit, Pandas, Regex
+
+**Descrição:** Aplicativo web interativo para análise e visualização de dados com filtros dinâmicos, desenvolvido com Streamlit e Pandas.
+
+**Preview:**
+
+> 📷 _Imagem do app será adicionada em breve_
+
+<!-- ![Dashboard Streamlit](./preview_streamlit.png) -->
 
 ---
 
@@ -55,9 +102,9 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 ## 📬 Contato
 
-- 📧 guilhermej.jeronimo@gmail.com
-- 📍 Bauru, SP — Brasil
-- 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-jer%C3%B4nimo/)
+- 📧 guilherme1.perotima@gmail.com
+- 📍 São Paulo, SP — Brasil
+- 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-jeronimo-analyst)
 
 ---
 
