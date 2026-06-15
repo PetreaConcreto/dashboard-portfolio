@@ -69,7 +69,8 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 > 📷 _Imagem da automação será adicionada em breve_
 
-<!-- ![Automação](./preview_automacao.png) -->
+<!-- ![Automação](./preview_automacao.png) --><img width="1386" height="764" alt="cross_plataform" src="https://github.com/user-attachments/assets/5421bb26-76d3-4085-a2b7-c4bd4492ae80" />
+
 
 **Código:** [Ver código Python](./codigo%20principal%20-%20PYTHON.py)
 
@@ -77,7 +78,7 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 #### Dashboard Web de Análise de Dados
 
-**Ferramentas:** Python, Streamlit, Pandas, Regex
+**Ferramentas:** Python, Streamlit, Pandas, Numpy, Matplotlib, Regex
 
 **Descrição:** Aplicativo web interativo para análise e visualização de dados com filtros dinâmicos, desenvolvido com Streamlit e Pandas.
 
