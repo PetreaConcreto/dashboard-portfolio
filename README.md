@@ -86,7 +86,9 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 > 📷 _Imagem do app será adicionada em breve_
 
-<!-- ![Dashboard Streamlit](./preview_streamlit.png) -->
+<!-- ![Dashboard Streamlit](./preview_streamlit.png) --><img width="1382" height="752" alt="instagram1" src="https://github.com/user-attachments/assets/d72af37a-9f9d-4490-b532-75d161ee3939" /><img width="1387" height="776" alt="instagram2" src="https://github.com/user-attachments/assets/3905d1c4-d8dd-4961-83bc-81c9be6e1ef8" />
+
+
 
 ---
 
