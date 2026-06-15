@@ -14,7 +14,7 @@
 
 Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência em custos industriais, suprimentos e PCP. Transformo dados brutos em análises acionáveis utilizando Power BI, SQL, Python e Excel, unindo visão de negócio à análise quantitativa.
 
-📍 São Paulo, SP — Brasil
+📍 Bauru, SP — Brasil
 
 ---
 
