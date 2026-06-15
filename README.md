@@ -69,7 +69,7 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 > 📷 _Imagem da automação será adicionada em breve_
 
-<!-- ![Automação](./preview_automacao.png) --><img width="1386" height="764" alt="cross_plataform" src="https://github.com/user-attachments/assets/5421bb26-76d3-4085-a2b7-c4bd4492ae80" />
+<!-- ![Automação](./preview_automacao.png) -->
 
 
 **Código:** [Ver código Python](./codigo%20principal%20-%20PYTHON.py)
@@ -86,7 +86,8 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 > 📷 _Imagem do app será adicionada em breve_
 
-<!-- ![Dashboard Streamlit](./preview_streamlit.png) --><img width="1382" height="752" alt="instagram1" src="https://github.com/user-attachments/assets/d72af37a-9f9d-4490-b532-75d161ee3939" /><img width="1387" height="776" alt="instagram2" src="https://github.com/user-attachments/assets/3905d1c4-d8dd-4961-83bc-81c9be6e1ef8" />
+<!-- ![Dashboard Streamlit](./preview_streamlit.png) --><img width="1386" height="764" alt="cross_plataform" src="https://github.com/user-attachments/assets/825cb43a-876c-456f-9f7f-5246ea272b04" />
+<img width="1382" height="752" alt="instagram1" src="https://github.com/user-attachments/assets/d72af37a-9f9d-4490-b532-75d161ee3939" /><img width="1387" height="776" alt="instagram2" src="https://github.com/user-attachments/assets/3905d1c4-d8dd-4961-83bc-81c9be6e1ef8" />
 
 
 
