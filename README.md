@@ -7,6 +7,7 @@
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)]()
 
 > Portfólio de projetos de Análise de Dados com foco em dashboards interativos, automações e insights para tomada de decisão.
+> > 🔒 Os dados utilizados nos projetos são fictícios ou foram autorizados para uso em portfólio.
 
 ---
 
@@ -24,11 +25,11 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 ### 🟡 Power BI
 
-#### Dashboard de Planejamento e Controle da Produção
+#### Dashboard de Performance Comercial
 
 **Ferramentas:** Power BI, DAX
 
-**Descrição:** Dashboard para monitoramento de indicadores de produção, acompanhando eficiência, custo por unidade e variação mensal. Permite identificar gargalos por linha e turno, apoiando decisões de planejamento e controle.
+**Descrição:** Dashboard desenvolvido para acompanhar indicadores operacionais, com foco em valor recuperado, FCR, evolução diária de performance e ranking por fila. O painel permite monitorar desvios em relação à meta, comparar resultados no tempo e apoiar decisões operacionais com base em indicadores visuais e filtros por data e equipe.
 
 **Preview:**
 
@@ -44,13 +45,14 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 **Ferramentas:** SQL, BigQuery
 
-**Descrição:** Queries para extração, transformação e análise de dados com aplicação em BigQuery. Inclui consultas para análise de custos, agrupamentos e indicadores de desempenho.
+**Descrição:** Projeto em SQL voltado à extração, tratamento e organização de dados para construção de dashboards e indicadores analíticos. As consultas foram desenvolvidas para estruturar informações relevantes, consolidar métricas e preparar bases para análises visuais e apoio à tomada de decisão
 
 **Preview:**
 
-> 📷 _Imagem do dashboard será adicionada em breve_
 
-<!-- ![Dashboard SQL](./preview_sql.png) -->
+
+<!-- ![Dashboard SQL](./preview_sql.png) --><img width="449" height="462" alt="Captura de tela 2026-06-15 142502" src="https://github.com/user-attachments/assets/85401452-545d-46da-b335-71b9cfe11a19" />
+
 
 **Código:** [Ver query SQL](./query%20usada%20para%20montar%20dashboard%20-%20SQL.txt)
 
@@ -62,7 +64,7 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 **Ferramentas:** Python, PyAutoGUI
 
-**Descrição:** Automação de preenchimento de formulários web, eliminando tarefas manuais repetitivas e reduzindo tempo de operação.
+**Descrição:** Projeto de automação em Python com PyAutoGUI para preenchimento automático de formulário web, simulando etapas de abertura do navegador, acesso ao site, inserção de dados e envio do formulário. A automação foi desenvolvida para reduzir tarefas manuais repetitivas, aumentar produtividade e demonstrar aplicação prática de scripts em rotinas operacionais.
 
 **Preview:**
 
@@ -78,7 +80,7 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 **Ferramentas:** Python, Streamlit, Pandas, Numpy, Matplotlib, Regex
 
-**Descrição:** Aplicativo web interativo para análise e visualização de dados com filtros dinâmicos, desenvolvido com Streamlit e Pandas.
+**Descrição:** AAplicação web interativa para análise e visualização de dados em redes sociais, com foco em alcance, engajamento e ações geradas pelos conteúdos. O projeto reúne visões comparativas entre plataformas e análises detalhadas por canal, permitindo identificar padrões de desempenho e apoiar decisões com base em indicadores visuais.
 
 **Preview:**
 
