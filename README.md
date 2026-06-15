@@ -57,7 +57,7 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 - 📧 guilhermej.jeronimo@gmail.com
 - 📍 Bauru, SP — Brasil
-- 🔗 [LinkedIn](www.linkedin.com/in/guilherme-jerônimo)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-jer%C3%B4nimo/)
 
 ---
 
