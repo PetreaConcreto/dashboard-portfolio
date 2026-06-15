@@ -55,8 +55,6 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 
 
-**Código:** [Ver query SQL](./query%20usada%20para%20montar%20dashboard%20-%20SQL.txt)
-
 ---
 
 ### 🐍 Python
@@ -72,8 +70,6 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 <!-- ![Automação](./preview_automacao.png) --><img width="449" height="462" alt="Captura de tela 2026-06-15 142502" src="https://github.com/user-attachments/assets/61daf2e3-d615-41fa-a843-77f71310d127" />
 
 
-
-**Código:** [Ver código Python](./codigo%20principal%20-%20PYTHON.py)
 
 ---
 
