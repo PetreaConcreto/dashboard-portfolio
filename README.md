@@ -1,6 +1,6 @@
 # 📊 Portfolio em Dados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-jeronimo-analyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https:/www.linkedin.com/in/guilherme-jerônimo)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
@@ -15,7 +15,7 @@
 
 Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência em custos industriais, suprimentos e PCP. Transformo dados brutos em análises acionáveis utilizando Power BI, SQL, Python e Excel, unindo visão de negócio à análise quantitativa.
 
-📍 São Paulo, SP — Brasil
+📍 Bauru, SP — Brasil
 
 ---
 
@@ -51,7 +51,8 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 
 
-<!-- ![Dashboard SQL](./preview_sql.png) --><img width="449" height="462" alt="Captura de tela 2026-06-15 142502" src="https://github.com/user-attachments/assets/85401452-545d-46da-b335-71b9cfe11a19" />
+<!-- ![Dashboard SQL](./preview_sql.png) --><img width="1100" height="1563" alt="image" src="https://github.com/user-attachments/assets/ae3db064-8085-4a80-850c-f29110389442" />
+
 
 
 **Código:** [Ver query SQL](./query%20usada%20para%20montar%20dashboard%20-%20SQL.txt)
@@ -80,7 +81,7 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 **Ferramentas:** Python, Streamlit, Pandas, Numpy, Matplotlib, Regex
 
-**Descrição:** AAplicação web interativa para análise e visualização de dados em redes sociais, com foco em alcance, engajamento e ações geradas pelos conteúdos. O projeto reúne visões comparativas entre plataformas e análises detalhadas por canal, permitindo identificar padrões de desempenho e apoiar decisões com base em indicadores visuais.
+**Descrição:** Aplicação web interativa para análise e visualização de dados em redes sociais, com foco em alcance, engajamento e ações geradas pelos conteúdos. O projeto reúne visões comparativas entre plataformas e análises detalhadas por canal, permitindo identificar padrões de desempenho e apoiar decisões com base em indicadores visuais.
 
 **Preview:**
 
@@ -104,9 +105,11 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 ## 📬 Contato
 
-- 📧 guilherme1.perotima@gmail.com
-- 📍 São Paulo, SP — Brasil
-- 🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-jeronimo-analyst)
+- 🔗 [LinkedIn](https:/www.linkedin.com/in/guilherme-jerônimo)
+- 📧 guilhermej.jeronimo@gmail.com
+- 📱 (14) 99109-7985
+- 📍 Bauru, SP — Brasil
+  
 
 ---
 
