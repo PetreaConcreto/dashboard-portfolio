@@ -55,9 +55,9 @@ Sou **Analista de Dados**, formado em Engenharia de Produção, com experiência
 
 ## 📬 Contato
 
-- 📧 guilherme1.perotima@gmail.com
+- 📧 guilhermej.jeronimo@gmail.com
 - 📍 Bauru, SP — Brasil
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 🔗 [LinkedIn](www.linkedin.com/in/guilherme-jerônimo)
 
 ---
 
